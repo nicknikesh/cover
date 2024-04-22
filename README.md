@@ -58,7 +58,7 @@ Publish the website in the LocalHost.
       left: 20px;
       font-size: 24px;
       font-weight: bold;
-      color: rgb(14, 15, 15);
+      color: white;
     }
     .book-cover .line1
     {
@@ -70,10 +70,10 @@ Publish the website in the LocalHost.
     .book-cover .title1 {
       position: absolute;
       top: 80px;
-      left: 50px;
+      left: 30px;
       font-size: 40px;
       font-weight: bold;
-      color:  rgb(11, 11, 11);
+      color:  white;
     }
     .book-cover .title2 {
       position: absolute;
@@ -81,7 +81,7 @@ Publish the website in the LocalHost.
       left: 30px;
       font-size: 40px;
       font-weight: bold;
-      color:  rgb(13, 13, 13);
+      color:  white;
     }
 
     .book-cover .subtitle1 {
@@ -90,7 +90,7 @@ Publish the website in the LocalHost.
       left: 20px;
       font-size: 16px;
       font-weight: bold;
-      color:  rgb(7, 7, 7);
+      color:  white;
     }
     .book-cover .subtitle2 {
       position: absolute;
@@ -98,7 +98,7 @@ Publish the website in the LocalHost.
       left: 20px;
       font-size: 16px;
       font-weight: bold;
-      color: rgb(14, 14, 14);
+      color: white;
     }
     .book-cover .subtitle3 {
       position: absolute;
@@ -106,7 +106,7 @@ Publish the website in the LocalHost.
       left: 20px;
       font-size: 16px;
       font-weight: bold;
-      color: rgb(19, 19, 19);
+      color: white;
     }
     .book-cover .line2
     {
@@ -129,7 +129,7 @@ Publish the website in the LocalHost.
       bottom: 25px;
       left: 20px;
       font-size: 18px;
-      color: rgb(15, 14, 14);
+      color: white;
     }
 
     .book-cover .number {
@@ -137,7 +137,7 @@ Publish the website in the LocalHost.
       bottom: 5px;
       left: 20px;
       font-size: 18px;
-      color: rgb(10, 10, 10);
+      color: white;
     }
 
     .book-cover .end {
@@ -145,7 +145,7 @@ Publish the website in the LocalHost.
       bottom: 5px;
       right: 50px;
       font-size: 18px;
-      color: rgb(17, 17, 17);
+      color: white;
     }
     .book-cover .mypic
     {
@@ -171,31 +171,33 @@ Publish the website in the LocalHost.
 
 <body>
   <div class="book-cover">
-    <img src="chemistry.jpeg" alt="Book Cover Image" class="image">
-    <div class="insight">NANO CHEMISTRY</div>
+    <img src="CN-(1).jpg" alt="Book Cover Image" class="image">
+    <div class="insight">Introduction To Internet</div>
     <div class="line1"><hr style="color:blanchedalmond"></div>
     <div class="title1">DAY TODAY LIFE</div>
-    <div class="title2">  norganic-based nanomaterials.</div>
+    <div class="title2"> NETWORKS TRANSFER PROTOCOL.</div>
     <div class="line2"><hr style="color:blanchedalmond"></div>
-    <div class="subtitle2">Richard Adolf Zsigmondy</div>
-    <div class="subtitle3">Geoffrey Ozin</div>
+    <div class="subtitle2">Local area network</div>
+    <div class="subtitle3">Personal area network</div>
     <div class="line3"><hr style="color:blanchedalmond"></div>
     <div class="mypic"><img src="WhatsApp Image 2024-04-16 at 13.11.42_01d0febe.jpg"width="120" height="120" ></div>
     <div class="end">SEC '27</div>
    
 
-    <div class="author">NICKESH KUMAR C</div>
+    <div class="author">NIKESH KUMAR C</div>
 
   </div>
 </body>
 
 </html>
 
+
 ```
 
 ## OUTPUT:
-![alt text](<Screenshot 2024-04-16 175201.png>)
 
+
+![alt text](<Screenshot 2024-04-22 084316.png>)
 
 ## RESULT:
 The program for designing book front cover page using HTML and CSS is completed successfully.
